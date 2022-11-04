@@ -1,0 +1,25 @@
+{
+  "name": "get-all-products",
+  "version": "1.0.0",
+  "description": "api automation testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recursive-rewind/get-all-products.git"
+  },
+  "keywords": [
+    "products"
+  ],
+  "author": "Hassan Raza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/recursive-rewind/get-all-products/issues"
+  },
+  "homepage": "https://github.com/recursive-rewind/get-all-products#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
